@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS.**
 
-- 📄 Know about my experiences [on my linkedin page.](on my linkedin page.)
+- 📄 Know about my experiences [https://linkedin.com/in/quentin-chalvin](https://linkedin.com/in/quentin-chalvin)
 
 - ⚡ Fun fact **i write on both QWERTY/AZERTY keyboard and i have stickers on my laptop.**
 
