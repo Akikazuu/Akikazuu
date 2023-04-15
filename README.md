@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A cybersecurity engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akikazuu&label=Profile%20views&color=0e75b6&style=flat" alt="akikazuu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akikazuu&label=Profile%20views&color=0e75b6&style=flat" alt="akikazuu" /> </p>
 
 - 🔭 I’m currently working on **cloud security on AWS and other security project.**
 
