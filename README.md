@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **cloud security on AWS and other security project.**
 
-- 🌱 I’m currently learning **AWS.**
+- 🌱 I’m currently learning **AWS.** and **Vault HashiCorp**
 
 - 📄 Know about my experiences [https://linkedin.com/in/quentin-chalvin](https://linkedin.com/in/quentin-chalvin)
 
