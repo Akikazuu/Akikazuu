@@ -1,23 +1,23 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">I'm Quentin, a cybersecurity engineer</div>  
-  
+
 
 - 🔭 I’m currently working on cloud security on AWS and other security project.  
-  
+
 
 - 🌱 I’m currently learning AWS and Vault HashiCorp
-  
-  
+
+
 
 - 📄 Know about my experiences https://linkedin.com/in/quentin-chalvin  
-  
+
 
 - ⚡ Fun fact i write on both QWERTY/AZERTY keyboard and i have stickers on my laptop.  
-  
+
 
 <br/>  
 
@@ -79,18 +79,18 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
 
 <br/>  
 
-  
+
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
-  
+
 
 <br/>  
 
