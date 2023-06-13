@@ -2,7 +2,7 @@
 <h3 align="center">A cybersecurity engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akikazuu&label=Profile%20views&color=0e75b6&style=flat" alt="akikazuu" /> </p>
 
-- 🔭 I’m currently working on **cloud security on AWS and other security project.**
+- 🔭 I’m currently working on **cloud security on AWS, Vault and other security project.**
 
 - 🌱 I’m currently learning **AWS** and **Vault HashiCorp**
 
