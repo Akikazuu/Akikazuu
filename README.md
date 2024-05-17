@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS** and **Vault HashiCorp**
 
-- 📄 Know about my experiences on [Linkedin](https://shorturl.at/h8aPP)
+- 📄 Know about my experiences on [Linkedin](www.linkedin.com/in/01101100011001010110010101110100)
 
 - ⚡ Fun fact **i write on both QWERTY/AZERTY keyboard and i have stickers on my laptop.**
 
