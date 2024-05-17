@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **AWS** and **Vault HashiCorp**
 
-- 📄 Know about my experiences on [Linkedin](www.linkedin.com/in/01101100011001010110010101110100)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/01101100011001010110010101110100/)
 
 - ⚡ Fun fact **i write on both QWERTY/AZERTY keyboard and i have stickers on my laptop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/01101100011001010110010101110100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/01101100011001010110010101110100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
